@@ -1,6 +1,6 @@
 # tamaGITchi
 
-Reimagining of a previous react [tamagothi project](https://github.com/fac-12/tamagotchi-react) - this time using the GitHub API. 
+Reimagining of a previous react [tamagotchi project](https://github.com/fac-12/tamagotchi-react) - this time using the GitHub API. 
 
 Enter the user you are looking for and feed her knowledge & skills to keep her alive. 
 
